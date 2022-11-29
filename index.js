@@ -35,7 +35,7 @@ function createPixel(i,j) {
         i,
         j,
         column,
-        setBoom = false,
+//         setBoom = false,
         value = 0
     }
     return pixel
